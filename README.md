@@ -2,7 +2,7 @@
 
 A comprehensive sales analysis and interactive dashboard for a retail and warehouse beverage distribution company.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes **30,000+ sales records** from 2020 for a beverage distributor dealing in Beer, Wine, Liquor, and related products. The analysis focuses on retail vs warehouse sales performance, category-wise trends, top performers, and seasonal patterns.
 
@@ -14,7 +14,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 📁 Dataset Information
+## Dataset Information
 
 - **File Name**: `Retail and warehouse Sale.csv`
 - **Rows**: 30,000+
@@ -37,7 +37,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 - **Grand Total Sales**: $1,031,118
 - **Retail Sales**: $208,186 (20.19%)
@@ -46,7 +46,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Data Processing**: Python (pandas), Power BI
 - **Database**: PostgreSQL
@@ -55,7 +55,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository
 2. Open the Power BI file (`retail_and_warehouse_sales_Dashboard.pbix`)
@@ -64,7 +64,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Interactive KPI Cards
 - Monthly Sales Trend (Retail vs Warehouse vs Total)
@@ -74,7 +74,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - Strong correlation between **warehouse sales** and **beer category**
 - July is the highest performing month
@@ -83,7 +83,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add full year data (2021+)
 - Customer segmentation analysis
@@ -92,7 +92,7 @@ This project analyzes **30,000+ sales records** from 2020 for a beverage distrib
 
 ---
 
-## 👤 Author
+## Author
 
 **Aakriti Yadav**
 
