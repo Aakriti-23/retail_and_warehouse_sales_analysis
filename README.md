@@ -1,4 +1,4 @@
-# Retail & Warehouse Sales Dashboard (2020)
+# Retail & Warehouse Sales Dashboard
 
 A comprehensive sales analysis and interactive dashboard for a retail and warehouse beverage distribution company.
 
